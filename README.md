@@ -1,8 +1,8 @@
-### ZeroStack Commerce AI
+## ZeroStack Commerce AI
 
 A production-ready AI-powered ecommerce platform built with Vercel v0 and Amazon Aurora PostgreSQL, designed to demonstrate how modern applications can ship fast and scale like real-world production systems.
 
-### Features
+## Features
 
 Modern AI-generated storefront (v0 UI)
 Product browsing and search
@@ -12,9 +12,9 @@ Admin dashboard for managing products & orders
 Scalable backend architecture
 Production-grade database design
 
-### Tech Stack
+## Tech Stack
 
-# Frontend
+### Frontend
 
 Next.js
 React
@@ -22,12 +22,12 @@ TypeScript
 Tailwind CSS
 Vercel v0
 
-# Backend
+### Backend
 
 Next.js API Routes
 Prisma ORM
 
-# Database
+### Database
 
 Amazon Aurora PostgreSQL
 Auth & Payments
