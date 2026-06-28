@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+ZeroStack Commerce AI
 
-## Getting Started
+A production-ready AI-powered ecommerce platform built with Vercel v0 and Amazon Aurora PostgreSQL, designed to demonstrate how modern applications can ship fast and scale like real-world production systems.
 
-First, run the development server:
+Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Modern AI-generated storefront (v0 UI)
+Product browsing and search
+Shopping cart & checkout flow
+User authentication
+Admin dashboard for managing products & orders
+Scalable backend architecture
+Production-grade database design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Frontend
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Next.js
+React
+TypeScript
+Tailwind CSS
+Vercel v0
 
-## Learn More
+Backend
 
-To learn more about Next.js, take a look at the following resources:
+Next.js API Routes
+Prisma ORM
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Database
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Amazon Aurora PostgreSQL
+Auth & Payments
+Clerk Authentication
+Stripe Payments
